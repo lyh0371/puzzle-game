@@ -1,6 +1,7 @@
 ## 项目名称
 
 数字华容道
+[线上体验](http://www.h5love.cn/pingtu/)
 
 ## 技术栈
 
