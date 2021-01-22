@@ -34,5 +34,11 @@ ref="game"
 
 ## API
 
-`game` 游戏开始
-`endCallback` 游戏结束
+- `game` 游戏开始
+- `endCallback` 游戏结束
+
+## 个人项目[webpack 打包多页面应用并支持自动生成路由](https://github.com/lyh0371/lyh-pages) 欢迎大家 start
+
+## 欢迎关注微信公众号[码不停息]
+
+![码不停息](https://github.com/lyh0371/lyh-pages/raw/master/mbtx.jpg)
